@@ -2,7 +2,7 @@
 
 This demo project contains source code for:
 
-  1. Training a deep learning RandLA-Net (https://arxiv.org/abs/1911.11236) segmentation model (MATLAB code in train.mlx).
+  1. Training of a deep learning RandLA-Net (https://arxiv.org/abs/1911.11236) segmentation model (MATLAB code in train.mlx).
 
   2. Predicting point classes—stem, living crown, and dead crown—for cleaned Norway spruce or Scots pine point clouds (MATLAB code in predict.mlx).
 
