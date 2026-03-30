@@ -1,4 +1,4 @@
-# **Predict Living and Dead Crown Boundary Heights of Norway Spruce and Scots Pine**
+# **Prediction of Living and Dead Crown Boundary Heights of Norway Spruce and Scots Pine from Terrestrial Laser Scanning Data**
 
 This demo project contains source code for:
 
