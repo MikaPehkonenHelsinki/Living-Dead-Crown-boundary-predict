@@ -9,3 +9,6 @@ This demo project contains source code for:
   3. Post-processing the segmented point clouds and extracting predicted heights of the living and dead crowns (Python code in the Jupyter notebook GetCrownBoundaries.ipynb).
 
 The project includes a set of Norway spruce point clouds for demonstration purposes. The source code includes instructions and scripts for package installation.
+
+Dataset containing 100 manually annotated Scots pine and Norway spruce terrestrial laser scanning point clouds used for training and model validation can be found at:
+https://zenodo.org/records/19328265
